@@ -1,2 +1,2 @@
 # SQL_Examples
-Same Examples and assignments in SQL 
+Some Examples and assignments in SQL 
